@@ -17,6 +17,9 @@ matplotlib = "*"
 jupyter-drawing-pad = "*"
 pandas = "*"
 seaborn = "*"
+tqdm = "*"
+google-cloud-vision = "*"
+google-cloud-language = "*"
 
 [requires]
 python_version = "3.7"
